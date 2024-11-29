@@ -175,7 +175,5 @@ header nav a:hover{
     margin-left: 65%;
     margin-top: 300px;
     width: 30vw;
-    filter: grayscale(100%); 
-    filter: grayscale(0%); /* remove o filtro para colorir a imagem */
 }
 
